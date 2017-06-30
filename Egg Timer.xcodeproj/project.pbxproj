@@ -7,21 +7,131 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E07C33C1EC7197000250F0E /* Medium Boiled Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3331EC7197000250F0E /* Medium Boiled Button.png */; };
+		1E07C33D1EC7197000250F0E /* Medium Boiled Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3341EC7197000250F0E /* Medium Boiled Button@2x.png */; };
+		1E07C33E1EC7197000250F0E /* Medium Boiled Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3351EC7197000250F0E /* Medium Boiled Button@3x.png */; };
+		1E07C33F1EC7197000250F0E /* Soft Boiled Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3361EC7197000250F0E /* Soft Boiled Button.png */; };
+		1E07C3401EC7197000250F0E /* Soft Boiled Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3371EC7197000250F0E /* Soft Boiled Button@2x.png */; };
+		1E07C3411EC7197000250F0E /* Soft Boiled Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3381EC7197000250F0E /* Soft Boiled Button@3x.png */; };
+		1E07C3421EC7197000250F0E /* Hard Boiled Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C3391EC7197000250F0E /* Hard Boiled Button.png */; };
+		1E07C3431EC7197000250F0E /* Hard Boiled Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C33A1EC7197000250F0E /* Hard Boiled Button@2x.png */; };
+		1E07C3441EC7197000250F0E /* Hard Boiled Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E07C33B1EC7197000250F0E /* Hard Boiled Button@3x.png */; };
 		1E0848881EB91EA4002D92AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0848871EB91EA4002D92AC /* AppDelegate.swift */; };
 		1E08488A1EB91EA4002D92AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0848891EB91EA4002D92AC /* ViewController.swift */; };
 		1E08488D1EB91EA4002D92AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E08488B1EB91EA4002D92AC /* Main.storyboard */; };
-		1E08488F1EB91EA4002D92AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E08488E1EB91EA4002D92AC /* Assets.xcassets */; };
 		1E0848921EB91EA4002D92AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848901EB91EA4002D92AC /* LaunchScreen.storyboard */; };
+		1E0848A51EB91EBF002D92AC /* Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848991EB91EBF002D92AC /* Button.png */; };
+		1E0848A61EB91EBF002D92AC /* Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E08489A1EB91EBF002D92AC /* Button@2x.png */; };
+		1E0848A71EB91EBF002D92AC /* Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E08489B1EB91EBF002D92AC /* Button@3x.png */; };
+		1E0848A81EB91EBF002D92AC /* ChickenImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E08489C1EB91EBF002D92AC /* ChickenImage.png */; };
+		1E0848A91EB91EBF002D92AC /* ChickenImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E08489D1EB91EBF002D92AC /* ChickenImage@2x.png */; };
+		1E0848AA1EB91EBF002D92AC /* ChickenImage@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E08489E1EB91EBF002D92AC /* ChickenImage@3x.png */; };
+		1E0848AB1EB91EBF002D92AC /* Footer.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E08489F1EB91EBF002D92AC /* Footer.png */; };
+		1E0848AC1EB91EBF002D92AC /* Footer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848A01EB91EBF002D92AC /* Footer@2x.png */; };
+		1E0848AD1EB91EBF002D92AC /* Footer@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848A11EB91EBF002D92AC /* Footer@3x.png */; };
+		1E0848AE1EB91EBF002D92AC /* Header.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848A21EB91EBF002D92AC /* Header.png */; };
+		1E0848AF1EB91EBF002D92AC /* Header@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848A31EB91EBF002D92AC /* Header@2x.png */; };
+		1E0848B01EB91EBF002D92AC /* Header@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848A41EB91EBF002D92AC /* Header@3x.png */; };
+		1E0848BB1EB92C9F002D92AC /* -10 Secs Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B21EB92C9F002D92AC /* -10 Secs Button.png */; };
+		1E0848BC1EB92C9F002D92AC /* -10 Secs Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B31EB92C9F002D92AC /* -10 Secs Button@2x.png */; };
+		1E0848BD1EB92C9F002D92AC /* -10 Secs Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B41EB92C9F002D92AC /* -10 Secs Button@3x.png */; };
+		1E0848BE1EB92C9F002D92AC /* +10 Secs Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B51EB92C9F002D92AC /* +10 Secs Button.png */; };
+		1E0848BF1EB92C9F002D92AC /* +10 Secs Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B61EB92C9F002D92AC /* +10 Secs Button@2x.png */; };
+		1E0848C01EB92C9F002D92AC /* +10 Secs Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B71EB92C9F002D92AC /* +10 Secs Button@3x.png */; };
+		1E0848C11EB92C9F002D92AC /* Reset Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B81EB92C9F002D92AC /* Reset Button.png */; };
+		1E0848C21EB92C9F002D92AC /* Reset Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848B91EB92C9F002D92AC /* Reset Button@2x.png */; };
+		1E0848C31EB92C9F002D92AC /* Reset Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848BA1EB92C9F002D92AC /* Reset Button@3x.png */; };
+		1E0848C71EB92F8C002D92AC /* Info Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848C41EB92F8C002D92AC /* Info Button.png */; };
+		1E0848C81EB92F8C002D92AC /* Info Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848C51EB92F8C002D92AC /* Info Button@2x.png */; };
+		1E0848C91EB92F8C002D92AC /* Info Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848C61EB92F8C002D92AC /* Info Button@3x.png */; };
+		1E0848CB1EB93246002D92AC /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0848CA1EB93246002D92AC /* InfoViewController.swift */; };
+		1E0848CF1EB935CB002D92AC /* Back Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848CC1EB935CB002D92AC /* Back Button.png */; };
+		1E0848D01EB935CB002D92AC /* Back Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848CD1EB935CB002D92AC /* Back Button@2x.png */; };
+		1E0848D11EB935CB002D92AC /* Back Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848CE1EB935CB002D92AC /* Back Button@3x.png */; };
+		1E0848DA1EB9397E002D92AC /* Start Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848D41EB9397E002D92AC /* Start Button.png */; };
+		1E0848DB1EB9397E002D92AC /* Start Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848D51EB9397E002D92AC /* Start Button@2x.png */; };
+		1E0848DC1EB9397E002D92AC /* Start Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848D61EB9397E002D92AC /* Start Button@3x.png */; };
+		1E0848DD1EB9397E002D92AC /* Stop Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848D71EB9397E002D92AC /* Stop Button.png */; };
+		1E0848DE1EB9397E002D92AC /* Stop Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848D81EB9397E002D92AC /* Stop Button@2x.png */; };
+		1E0848DF1EB9397E002D92AC /* Stop Button@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848D91EB9397E002D92AC /* Stop Button@3x.png */; };
+		1E0848E31EB93BD9002D92AC /* Timer.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848E01EB93BD9002D92AC /* Timer.png */; };
+		1E0848E41EB93BD9002D92AC /* Timer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848E11EB93BD9002D92AC /* Timer@2x.png */; };
+		1E0848E51EB93BD9002D92AC /* Timer@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848E21EB93BD9002D92AC /* Timer@3x.png */; };
+		1E0848E91EB93F80002D92AC /* Ready Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848E61EB93F80002D92AC /* Ready Icon.png */; };
+		1E0848EA1EB93F80002D92AC /* Ready Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848E71EB93F80002D92AC /* Ready Icon@2x.png */; };
+		1E0848EB1EB93F80002D92AC /* Ready Icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0848E81EB93F80002D92AC /* Ready Icon@3x.png */; };
+		1E57449B1EB9506400542E20 /* chickensound.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 1E57449A1EB9506400542E20 /* chickensound.m4a */; };
+		1E57449E1EB9513400542E20 /* Boiling Eggs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1E57449D1EB9513400542E20 /* Boiling Eggs.jpg */; };
+		1E5744A21EB9E1BE00542E20 /* Settings Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E57449F1EB9E1BE00542E20 /* Settings Icon.png */; };
+		1E5744A31EB9E1BE00542E20 /* Settings Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E5744A01EB9E1BE00542E20 /* Settings Icon@2x.png */; };
+		1E5744A41EB9E1BE00542E20 /* Settings Icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E5744A11EB9E1BE00542E20 /* Settings Icon@3x.png */; };
+		1E5744A61EB9E50600542E20 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5744A51EB9E50600542E20 /* SettingsViewController.swift */; };
+		1E5744A81EBBA47600542E20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5744A71EBBA47600542E20 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E07C3331EC7197000250F0E /* Medium Boiled Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Medium Boiled Button.png"; sourceTree = "<group>"; };
+		1E07C3341EC7197000250F0E /* Medium Boiled Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Medium Boiled Button@2x.png"; sourceTree = "<group>"; };
+		1E07C3351EC7197000250F0E /* Medium Boiled Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Medium Boiled Button@3x.png"; sourceTree = "<group>"; };
+		1E07C3361EC7197000250F0E /* Soft Boiled Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Soft Boiled Button.png"; sourceTree = "<group>"; };
+		1E07C3371EC7197000250F0E /* Soft Boiled Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Soft Boiled Button@2x.png"; sourceTree = "<group>"; };
+		1E07C3381EC7197000250F0E /* Soft Boiled Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Soft Boiled Button@3x.png"; sourceTree = "<group>"; };
+		1E07C3391EC7197000250F0E /* Hard Boiled Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hard Boiled Button.png"; sourceTree = "<group>"; };
+		1E07C33A1EC7197000250F0E /* Hard Boiled Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hard Boiled Button@2x.png"; sourceTree = "<group>"; };
+		1E07C33B1EC7197000250F0E /* Hard Boiled Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hard Boiled Button@3x.png"; sourceTree = "<group>"; };
 		1E0848841EB91EA4002D92AC /* Egg Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Egg Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E0848871EB91EA4002D92AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E0848891EB91EA4002D92AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1E08488C1EB91EA4002D92AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1E08488E1EB91EA4002D92AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E0848911EB91EA4002D92AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E0848931EB91EA4002D92AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E0848991EB91EBF002D92AC /* Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button.png; sourceTree = "<group>"; };
+		1E08489A1EB91EBF002D92AC /* Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button@2x.png"; sourceTree = "<group>"; };
+		1E08489B1EB91EBF002D92AC /* Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button@3x.png"; sourceTree = "<group>"; };
+		1E08489C1EB91EBF002D92AC /* ChickenImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChickenImage.png; sourceTree = "<group>"; };
+		1E08489D1EB91EBF002D92AC /* ChickenImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ChickenImage@2x.png"; sourceTree = "<group>"; };
+		1E08489E1EB91EBF002D92AC /* ChickenImage@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ChickenImage@3x.png"; sourceTree = "<group>"; };
+		1E08489F1EB91EBF002D92AC /* Footer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Footer.png; sourceTree = "<group>"; };
+		1E0848A01EB91EBF002D92AC /* Footer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Footer@2x.png"; sourceTree = "<group>"; };
+		1E0848A11EB91EBF002D92AC /* Footer@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Footer@3x.png"; sourceTree = "<group>"; };
+		1E0848A21EB91EBF002D92AC /* Header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Header.png; sourceTree = "<group>"; };
+		1E0848A31EB91EBF002D92AC /* Header@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Header@2x.png"; sourceTree = "<group>"; };
+		1E0848A41EB91EBF002D92AC /* Header@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Header@3x.png"; sourceTree = "<group>"; };
+		1E0848B21EB92C9F002D92AC /* -10 Secs Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "-10 Secs Button.png"; sourceTree = "<group>"; };
+		1E0848B31EB92C9F002D92AC /* -10 Secs Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "-10 Secs Button@2x.png"; sourceTree = "<group>"; };
+		1E0848B41EB92C9F002D92AC /* -10 Secs Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "-10 Secs Button@3x.png"; sourceTree = "<group>"; };
+		1E0848B51EB92C9F002D92AC /* +10 Secs Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "+10 Secs Button.png"; sourceTree = "<group>"; };
+		1E0848B61EB92C9F002D92AC /* +10 Secs Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "+10 Secs Button@2x.png"; sourceTree = "<group>"; };
+		1E0848B71EB92C9F002D92AC /* +10 Secs Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "+10 Secs Button@3x.png"; sourceTree = "<group>"; };
+		1E0848B81EB92C9F002D92AC /* Reset Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reset Button.png"; sourceTree = "<group>"; };
+		1E0848B91EB92C9F002D92AC /* Reset Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reset Button@2x.png"; sourceTree = "<group>"; };
+		1E0848BA1EB92C9F002D92AC /* Reset Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reset Button@3x.png"; sourceTree = "<group>"; };
+		1E0848C41EB92F8C002D92AC /* Info Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Info Button.png"; sourceTree = "<group>"; };
+		1E0848C51EB92F8C002D92AC /* Info Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Info Button@2x.png"; sourceTree = "<group>"; };
+		1E0848C61EB92F8C002D92AC /* Info Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Info Button@3x.png"; sourceTree = "<group>"; };
+		1E0848CA1EB93246002D92AC /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		1E0848CC1EB935CB002D92AC /* Back Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back Button.png"; sourceTree = "<group>"; };
+		1E0848CD1EB935CB002D92AC /* Back Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back Button@2x.png"; sourceTree = "<group>"; };
+		1E0848CE1EB935CB002D92AC /* Back Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back Button@3x.png"; sourceTree = "<group>"; };
+		1E0848D41EB9397E002D92AC /* Start Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Start Button.png"; sourceTree = "<group>"; };
+		1E0848D51EB9397E002D92AC /* Start Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Start Button@2x.png"; sourceTree = "<group>"; };
+		1E0848D61EB9397E002D92AC /* Start Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Start Button@3x.png"; sourceTree = "<group>"; };
+		1E0848D71EB9397E002D92AC /* Stop Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stop Button.png"; sourceTree = "<group>"; };
+		1E0848D81EB9397E002D92AC /* Stop Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stop Button@2x.png"; sourceTree = "<group>"; };
+		1E0848D91EB9397E002D92AC /* Stop Button@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stop Button@3x.png"; sourceTree = "<group>"; };
+		1E0848E01EB93BD9002D92AC /* Timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Timer.png; sourceTree = "<group>"; };
+		1E0848E11EB93BD9002D92AC /* Timer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Timer@2x.png"; sourceTree = "<group>"; };
+		1E0848E21EB93BD9002D92AC /* Timer@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Timer@3x.png"; sourceTree = "<group>"; };
+		1E0848E61EB93F80002D92AC /* Ready Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ready Icon.png"; sourceTree = "<group>"; };
+		1E0848E71EB93F80002D92AC /* Ready Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ready Icon@2x.png"; sourceTree = "<group>"; };
+		1E0848E81EB93F80002D92AC /* Ready Icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ready Icon@3x.png"; sourceTree = "<group>"; };
+		1E57449A1EB9506400542E20 /* chickensound.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = chickensound.m4a; sourceTree = "<group>"; };
+		1E57449D1EB9513400542E20 /* Boiling Eggs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Boiling Eggs.jpg"; sourceTree = "<group>"; };
+		1E57449F1EB9E1BE00542E20 /* Settings Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings Icon.png"; sourceTree = "<group>"; };
+		1E5744A01EB9E1BE00542E20 /* Settings Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings Icon@2x.png"; sourceTree = "<group>"; };
+		1E5744A11EB9E1BE00542E20 /* Settings Icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings Icon@3x.png"; sourceTree = "<group>"; };
+		1E5744A51EB9E50600542E20 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		1E5744A71EBBA47600542E20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +166,83 @@
 			children = (
 				1E0848871EB91EA4002D92AC /* AppDelegate.swift */,
 				1E0848891EB91EA4002D92AC /* ViewController.swift */,
+				1E0848CA1EB93246002D92AC /* InfoViewController.swift */,
+				1E5744A51EB9E50600542E20 /* SettingsViewController.swift */,
 				1E08488B1EB91EA4002D92AC /* Main.storyboard */,
-				1E08488E1EB91EA4002D92AC /* Assets.xcassets */,
+				1E5744A71EBBA47600542E20 /* Assets.xcassets */,
+				1E57449C1EB950A000542E20 /* Audio */,
+				1E0848B11EB91EC8002D92AC /* Images */,
 				1E0848901EB91EA4002D92AC /* LaunchScreen.storyboard */,
 				1E0848931EB91EA4002D92AC /* Info.plist */,
 			);
 			path = "Egg Timer";
+			sourceTree = "<group>";
+		};
+		1E0848B11EB91EC8002D92AC /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				1E0848B21EB92C9F002D92AC /* -10 Secs Button.png */,
+				1E0848B31EB92C9F002D92AC /* -10 Secs Button@2x.png */,
+				1E0848B41EB92C9F002D92AC /* -10 Secs Button@3x.png */,
+				1E0848B51EB92C9F002D92AC /* +10 Secs Button.png */,
+				1E0848B61EB92C9F002D92AC /* +10 Secs Button@2x.png */,
+				1E0848B71EB92C9F002D92AC /* +10 Secs Button@3x.png */,
+				1E57449D1EB9513400542E20 /* Boiling Eggs.jpg */,
+				1E0848CC1EB935CB002D92AC /* Back Button.png */,
+				1E0848CD1EB935CB002D92AC /* Back Button@2x.png */,
+				1E0848CE1EB935CB002D92AC /* Back Button@3x.png */,
+				1E0848991EB91EBF002D92AC /* Button.png */,
+				1E08489A1EB91EBF002D92AC /* Button@2x.png */,
+				1E08489B1EB91EBF002D92AC /* Button@3x.png */,
+				1E07C3361EC7197000250F0E /* Soft Boiled Button.png */,
+				1E07C3371EC7197000250F0E /* Soft Boiled Button@2x.png */,
+				1E07C3381EC7197000250F0E /* Soft Boiled Button@3x.png */,
+				1E07C3331EC7197000250F0E /* Medium Boiled Button.png */,
+				1E07C3341EC7197000250F0E /* Medium Boiled Button@2x.png */,
+				1E07C3351EC7197000250F0E /* Medium Boiled Button@3x.png */,
+				1E07C3391EC7197000250F0E /* Hard Boiled Button.png */,
+				1E07C33A1EC7197000250F0E /* Hard Boiled Button@2x.png */,
+				1E07C33B1EC7197000250F0E /* Hard Boiled Button@3x.png */,
+				1E08489C1EB91EBF002D92AC /* ChickenImage.png */,
+				1E08489D1EB91EBF002D92AC /* ChickenImage@2x.png */,
+				1E08489E1EB91EBF002D92AC /* ChickenImage@3x.png */,
+				1E08489F1EB91EBF002D92AC /* Footer.png */,
+				1E0848A01EB91EBF002D92AC /* Footer@2x.png */,
+				1E0848A11EB91EBF002D92AC /* Footer@3x.png */,
+				1E0848A21EB91EBF002D92AC /* Header.png */,
+				1E0848A31EB91EBF002D92AC /* Header@2x.png */,
+				1E0848A41EB91EBF002D92AC /* Header@3x.png */,
+				1E0848C41EB92F8C002D92AC /* Info Button.png */,
+				1E0848C51EB92F8C002D92AC /* Info Button@2x.png */,
+				1E0848C61EB92F8C002D92AC /* Info Button@3x.png */,
+				1E0848E61EB93F80002D92AC /* Ready Icon.png */,
+				1E0848E71EB93F80002D92AC /* Ready Icon@2x.png */,
+				1E0848E81EB93F80002D92AC /* Ready Icon@3x.png */,
+				1E0848B81EB92C9F002D92AC /* Reset Button.png */,
+				1E0848B91EB92C9F002D92AC /* Reset Button@2x.png */,
+				1E0848BA1EB92C9F002D92AC /* Reset Button@3x.png */,
+				1E57449F1EB9E1BE00542E20 /* Settings Icon.png */,
+				1E5744A01EB9E1BE00542E20 /* Settings Icon@2x.png */,
+				1E5744A11EB9E1BE00542E20 /* Settings Icon@3x.png */,
+				1E0848D41EB9397E002D92AC /* Start Button.png */,
+				1E0848D51EB9397E002D92AC /* Start Button@2x.png */,
+				1E0848D61EB9397E002D92AC /* Start Button@3x.png */,
+				1E0848D71EB9397E002D92AC /* Stop Button.png */,
+				1E0848D81EB9397E002D92AC /* Stop Button@2x.png */,
+				1E0848D91EB9397E002D92AC /* Stop Button@3x.png */,
+				1E0848E01EB93BD9002D92AC /* Timer.png */,
+				1E0848E11EB93BD9002D92AC /* Timer@2x.png */,
+				1E0848E21EB93BD9002D92AC /* Timer@3x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		1E57449C1EB950A000542E20 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				1E57449A1EB9506400542E20 /* chickensound.m4a */,
+			);
+			name = Audio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +305,62 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E0848E41EB93BD9002D92AC /* Timer@2x.png in Resources */,
+				1E5744A31EB9E1BE00542E20 /* Settings Icon@2x.png in Resources */,
+				1E0848DE1EB9397E002D92AC /* Stop Button@2x.png in Resources */,
+				1E0848C01EB92C9F002D92AC /* +10 Secs Button@3x.png in Resources */,
+				1E0848A91EB91EBF002D92AC /* ChickenImage@2x.png in Resources */,
+				1E0848C11EB92C9F002D92AC /* Reset Button.png in Resources */,
+				1E0848BC1EB92C9F002D92AC /* -10 Secs Button@2x.png in Resources */,
+				1E07C33C1EC7197000250F0E /* Medium Boiled Button.png in Resources */,
+				1E0848C21EB92C9F002D92AC /* Reset Button@2x.png in Resources */,
+				1E07C3441EC7197000250F0E /* Hard Boiled Button@3x.png in Resources */,
+				1E0848DF1EB9397E002D92AC /* Stop Button@3x.png in Resources */,
+				1E0848AA1EB91EBF002D92AC /* ChickenImage@3x.png in Resources */,
+				1E07C33E1EC7197000250F0E /* Medium Boiled Button@3x.png in Resources */,
+				1E0848AB1EB91EBF002D92AC /* Footer.png in Resources */,
 				1E0848921EB91EA4002D92AC /* LaunchScreen.storyboard in Resources */,
-				1E08488F1EB91EA4002D92AC /* Assets.xcassets in Resources */,
+				1E0848DC1EB9397E002D92AC /* Start Button@3x.png in Resources */,
+				1E0848AC1EB91EBF002D92AC /* Footer@2x.png in Resources */,
+				1E0848AF1EB91EBF002D92AC /* Header@2x.png in Resources */,
+				1E0848A81EB91EBF002D92AC /* ChickenImage.png in Resources */,
+				1E5744A21EB9E1BE00542E20 /* Settings Icon.png in Resources */,
+				1E0848E91EB93F80002D92AC /* Ready Icon.png in Resources */,
+				1E07C33F1EC7197000250F0E /* Soft Boiled Button.png in Resources */,
+				1E0848A61EB91EBF002D92AC /* Button@2x.png in Resources */,
+				1E0848A51EB91EBF002D92AC /* Button.png in Resources */,
+				1E07C3431EC7197000250F0E /* Hard Boiled Button@2x.png in Resources */,
+				1E5744A41EB9E1BE00542E20 /* Settings Icon@3x.png in Resources */,
+				1E0848BD1EB92C9F002D92AC /* -10 Secs Button@3x.png in Resources */,
+				1E0848A71EB91EBF002D92AC /* Button@3x.png in Resources */,
+				1E0848DD1EB9397E002D92AC /* Stop Button.png in Resources */,
+				1E5744A81EBBA47600542E20 /* Assets.xcassets in Resources */,
+				1E0848C91EB92F8C002D92AC /* Info Button@3x.png in Resources */,
+				1E0848C31EB92C9F002D92AC /* Reset Button@3x.png in Resources */,
+				1E0848D01EB935CB002D92AC /* Back Button@2x.png in Resources */,
+				1E0848C81EB92F8C002D92AC /* Info Button@2x.png in Resources */,
+				1E0848B01EB91EBF002D92AC /* Header@3x.png in Resources */,
+				1E0848E51EB93BD9002D92AC /* Timer@3x.png in Resources */,
+				1E0848EA1EB93F80002D92AC /* Ready Icon@2x.png in Resources */,
+				1E0848D11EB935CB002D92AC /* Back Button@3x.png in Resources */,
+				1E57449B1EB9506400542E20 /* chickensound.m4a in Resources */,
+				1E07C3401EC7197000250F0E /* Soft Boiled Button@2x.png in Resources */,
+				1E0848DA1EB9397E002D92AC /* Start Button.png in Resources */,
+				1E0848AE1EB91EBF002D92AC /* Header.png in Resources */,
+				1E0848AD1EB91EBF002D92AC /* Footer@3x.png in Resources */,
+				1E07C3421EC7197000250F0E /* Hard Boiled Button.png in Resources */,
+				1E0848BE1EB92C9F002D92AC /* +10 Secs Button.png in Resources */,
+				1E0848DB1EB9397E002D92AC /* Start Button@2x.png in Resources */,
+				1E0848E31EB93BD9002D92AC /* Timer.png in Resources */,
+				1E07C33D1EC7197000250F0E /* Medium Boiled Button@2x.png in Resources */,
+				1E0848C71EB92F8C002D92AC /* Info Button.png in Resources */,
+				1E0848BF1EB92C9F002D92AC /* +10 Secs Button@2x.png in Resources */,
+				1E0848BB1EB92C9F002D92AC /* -10 Secs Button.png in Resources */,
+				1E57449E1EB9513400542E20 /* Boiling Eggs.jpg in Resources */,
+				1E0848EB1EB93F80002D92AC /* Ready Icon@3x.png in Resources */,
 				1E08488D1EB91EA4002D92AC /* Main.storyboard in Resources */,
+				1E0848CF1EB935CB002D92AC /* Back Button.png in Resources */,
+				1E07C3411EC7197000250F0E /* Soft Boiled Button@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +372,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E08488A1EB91EA4002D92AC /* ViewController.swift in Sources */,
+				1E0848CB1EB93246002D92AC /* InfoViewController.swift in Sources */,
 				1E0848881EB91EA4002D92AC /* AppDelegate.swift in Sources */,
+				1E5744A61EB9E50600542E20 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +538,7 @@
 				1E0848981EB91EA4002D92AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
